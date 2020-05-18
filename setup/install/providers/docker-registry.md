@@ -229,6 +229,7 @@ verifies this for you.
 | Quay | quay.io | Yes |
 | ECR | `account-id`.dkr.ecr.`region`.amazon.aws.com | Yes |
 | JFrog Artifactory | `server`-`repo`.jfrog.io | ? |
+| IBM Cloud | icr.io, us.icr.io, jp.icr.io, au.icr.io, de.icr.io uk.icr.io | No |
 
 ## Add the account
 
